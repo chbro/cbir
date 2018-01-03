@@ -1,6 +1,8 @@
-# cibr
+# Content Based Image Retrieval
 
-> summer train
+去年暑假实习图像识别网站的简易前端
+
+基于vue-cli webpack模板
 
 ## Build Setup
 
